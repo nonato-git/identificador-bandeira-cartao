@@ -20,8 +20,6 @@ O programa verifica os prefixos dos cartões, como:
 git clone https://github.com/nonato-git/identificador-bandeira-cartao.git
 cd identificador-bandeira-cartao
 python main.py
-📸 Capturas de Tela
-Imagens do programa em execução na pasta /images.
 
 ✍️ Autor
 Seu Nome - @nonato-git
