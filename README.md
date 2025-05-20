@@ -1,4 +1,5 @@
-# identificador-bandeira-cartao
+# Identificador de Bandeira de Cartão
+
 Este projeto identifica a bandeira de um cartão com base no número inserido. Desenvolvido como parte do desafio da DIO, usando conceitos de lógica, versionamento e GitHub Copilot.
 
 ## 🚀 Tecnologias
@@ -9,10 +10,10 @@ Este projeto identifica a bandeira de um cartão com base no número inserido. D
 
 O programa verifica os prefixos dos cartões, como:
 
-- `4`: Visa
-- `51-55`: MasterCard
-- `34 ou 37`: American Express
-- `6011`: Discover
+- `4`: Visa  
+- `51-55`: MasterCard  
+- `34` ou `37`: American Express  
+- `6011`: Discover  
 
 ## 🛠️ Como Executar
 
@@ -21,5 +22,5 @@ git clone https://github.com/nonato-git/identificador-bandeira-cartao.git
 cd identificador-bandeira-cartao
 python main.py
 
-✍️ Autor
-Seu Nome - @nonato-git
+## ✍️ Autor
+Nonato - [@nonato-git](https://github.com/nonato-git)
